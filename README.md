@@ -38,6 +38,7 @@ The dataset includes:
 * Scaled numeric features using StandardScaler
 
 ```python
+```
 ![Screenshot (31)](https://github.com/user-attachments/assets/0c383836-0cf8-4d9f-98be-2900d08e1070)
 
 ```
@@ -55,8 +56,7 @@ Key findings:
 
 ```
 Used a `RandomForestClassifier` for high interpretability and performance.
-```
-![Screenshot (32)](https://github.com/user-attachments/assets/2e78a9fa-70a7-4367-bb61-6ee3484dc66f)
+```![Screenshot (32)](https://github.com/user-attachments/assets/2e78a9fa-70a7-4367-bb61-6ee3484dc66f)
 
 
 ```
