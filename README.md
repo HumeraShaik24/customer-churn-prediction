@@ -51,11 +51,11 @@ Key findings:
 ![Churn Distribution](visualizations/churn_distribution.png)
 ![Contract Type Impact](visualizations/contract_type_vs_churn.png)
 
+```## 🧠 Model Building
+
 ```
-## 🧠 Model Building
-
 Used a `RandomForestClassifier` for high interpretability and performance.
-
+```
 ![Screenshot (32)](https://github.com/user-attachments/assets/2e78a9fa-70a7-4367-bb61-6ee3484dc66f)
 
 
