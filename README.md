@@ -42,6 +42,7 @@ The dataset includes:
 ![Screenshot (31)](https://github.com/user-attachments/assets/0c383836-0cf8-4d9f-98be-2900d08e1070)
 
 ```
+```
 ## 📈 Exploratory Data Analysis (EDA)
 
 Key findings:
@@ -70,7 +71,7 @@ Used a `RandomForestClassifier` for high interpretability and performance.
 
 ![Screenshot (33)](https://github.com/user-attachments/assets/9105edfb-a6c6-4f34-aec0-0eec8905d9aa)
 ```
-
+```
 ## ✅ Results & Impact
 
 The model achieved nearly **79% accuracy**, helping to proactively identify potential churners. This can potentially reduce churn-related losses by targeting at-risk customers with retention strategies.
@@ -82,13 +83,16 @@ The model achieved nearly **79% accuracy**, helping to proactively identify pote
 * Deployment using Flask or Streamlit
 
 ## 🔗 Links
-
-* 📂 [Project Notebook](link-to-notebook)
-* 📊 [Dataset Source](link-to-dataset)
 * 📸 [Visualizations Folder](link-to-images)
-* 📌 [Live Demo (if available)](link-to-demo)
 
-## 🙋‍♀️ Author
+## 👩‍💻 About Me
+Humera Shaik
+📊 Data Analyst | 🎯 Forecasting & Insight Generation | 🤖 AI Tools Explorer
 
-**Humera Shaik**
-GitHub: [HumeraShaik24](https://github.com/HumeraShaik24)
+📧 Email: humerah610@gmail.com
+
+📱 Phone: +91 7382273550
+
+🔗 [LinkedIn](https://www.linkedin.com/in/humera-shaik-dataanalyst/)
+📄 [View My Resume](HS%20DA%2045.pdf)
+
